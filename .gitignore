@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entornos virtuales
+.venv/
+venv/
+venv
+ENV/
+env/
+.env
+# Variables de entorno locales
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/

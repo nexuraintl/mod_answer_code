@@ -1,0 +1,8 @@
+{
+  "core": [
+    "Nexura Platform Core/Nexura Platform Core V8"
+  ],
+  "administracion": [
+    "Nexura Platform/mod_administracion, Nexura Platform/mod_administracion_V9"
+  ]
+}
